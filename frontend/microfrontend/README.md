@@ -11,3 +11,6 @@
 Webpack Module Federation
 Причина выбора: так как различным командам необходим будет
 получать доступ к коду друг друга до развёртывания.
+
+## Ссылка на drawio ##
+https://drive.google.com/file/d/1AMKsWO1K-13OwU4RP8GV7hTUxD5qkq5S/view?usp=sharing
